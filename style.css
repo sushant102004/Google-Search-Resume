@@ -189,3 +189,8 @@ body {
   font-size: 1.1rem;
   line-height: 1.8rem;
 }
+
+a{
+  text-decoration: none;
+  color: #8ab4f8;
+}
